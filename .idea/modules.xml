@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mail-coupon/mail-coupon.iml" filepath="$PROJECT_DIR$/mail-coupon/mail-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail-order/mail-order.iml" filepath="$PROJECT_DIR$/mail-order/mail-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail-product/mail-product.iml" filepath="$PROJECT_DIR$/mail-product/mail-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail-user/mail-user.iml" filepath="$PROJECT_DIR$/mail-user/mail-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail-warehousing/mail-warehousing.iml" filepath="$PROJECT_DIR$/mail-warehousing/mail-warehousing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mall.iml" filepath="$PROJECT_DIR$/.idea/mall.iml" />
+    </modules>
+  </component>
+</project>

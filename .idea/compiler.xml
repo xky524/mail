@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mail-warehousing" />
+        <module name="mail-user" />
+        <module name="mail-order" />
+        <module name="mail-coupon" />
+        <module name="mail-product" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mail-coupon" target="1.8" />
+      <module name="mail-order" target="1.8" />
+      <module name="mail-product" target="1.8" />
+      <module name="mail-user" target="1.8" />
+      <module name="mail-warehousing" target="1.8" />
+      <module name="mall" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mail-coupon" options="-parameters" />
+      <module name="mail-order" options="-parameters" />
+      <module name="mail-product" options="-parameters" />
+      <module name="mail-user" options="-parameters" />
+      <module name="mail-warehousing" options="-parameters" />
+      <module name="mall" options="-parameters" />
+    </option>
+  </component>
+</project>
